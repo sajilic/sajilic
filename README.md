@@ -1,4 +1,3 @@
-(https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1712793600&v=beta&t=1ONGgK2bRt1RDzej0-AQ3gOAiKhpLnL0_3LHbgF_yM0)
 
 <h1 align="center">Hi 👋, I am Sajili Chakraborty</h1>
 <h3 align="center">An Engineering student from India</h3>
