@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajilic&label=Profile%20views&color=0e75b6&style=flat" alt="sajilic" /> </p>
 
-- I'm currently learning **Web Development, PostgreSQL, DSA**
+- I'm currently learning **Web Development, MySQL, DSA**
 
 - 📫 How to reach me **sajilichakraborty2k02@gmail.com**
 
